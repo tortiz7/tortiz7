@@ -6,7 +6,7 @@
 
 🎓 I have a bachelors degree in English from Wesleyan University
 
-💼 I am an aspiring cloud infrasture and AI engineer! 
+💼 I am an aspiring cloud infrastructure and AI engineer! 
 
 🌱 I am currently a Junior Systems Engineer at SHoP Architects, managing hardware inventory, patching policies, and AV monitoring
 
