@@ -16,7 +16,7 @@ When I'm not working with technology, you can find me hiking with my dog, explor
 | :---: | :--- | :--- |
 | ☁️ | **Cloud & Infrastructure** | AWS, GCP, Terraform, Docker, Networking (TCP/IP, DNS) |
 | ⚙️ | **Automation & Scripting** | Python, Bash, PowerShell, Jenkins, Git, CI/CD |
-| 🖥️ | **OS & IT Operations** | Windows Server, macOS, Linux (Ubuntu), Active Directory, IAM, MDM (Jamf/NinjaOne) |
+| 🖥️ | **OS & IT Operations** | Windows Server, macOS, Linux (Ubuntu), Active Directory, IAM, MDM (NinjaOne) |
 | 🗃️ | **Databases & Monitoring** | Redis, Prometheus, Grafana, SQL (Basic) |
 
 <br/>
