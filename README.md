@@ -1,36 +1,29 @@
-<h2> Hey there! I'm Triston</h2>
+<h2> Hey there! I'm Triston Ortiz 👨🏻‍💻</h2>
 
-<h3> 👨🏻‍💻  About Me </h3>
+<h3> 👨🏻‍💻 About Me </h3>
 
-🤔 I like to hike, listen to music, play video games, run, watch movies, and play with my dog
+I'm an **IT Engineer** with a passion for building scalable, automated, and resilient infrastructure.
 
-🎓 I have a bachelors degree in English from Wesleyan University
+With over five years of hands-on experience in systems administration and IT operations, I've recently supercharged my skill set with an intensive focus on **Cloud Engineering and AI** through the Kura Labs program. I thrive on solving complex problems, whether it's engineering a secure patching strategy for hundreds of devices or building a deep learning model to analyze medical images.
 
-💼 I am an aspiring cloud infrastructure and AI engineer! 
+My unique background as an **English major from Wesleyan University** gives me a distinct advantage: I don't just solve technical challenges; I communicate them clearly, write comprehensive documentation, and bridge the gap between complex engineering concepts and business needs.
 
-🌱 I am currently a Junior Systems Engineer at SHoP Architects, managing hardware inventory, patching policies, and AV monitoring
+When I'm not working with technology, you can find me hiking with my dog, exploring new music, or getting lost in a great film.
 
+<h3> 🛠️ Tech Stack</h3>
 
-<h3> 🛠  Tech Stack</h3>
-
-💻
-
-🌐
-
-🛢
-
-⚙️
-
-🔧
-
-🖥
+| | | |
+| :---: | :--- | :--- |
+| ☁️ | **Cloud & Infrastructure** | AWS, GCP, Terraform, Docker, Networking (TCP/IP, DNS) |
+| ⚙️ | **Automation & Scripting** | Python, Bash, PowerShell, Jenkins, Git, CI/CD |
+| 🖥️ | **OS & IT Operations** | Windows Server, macOS, Linux (Ubuntu), Active Directory, IAM, MDM (Jamf/NinjaOne) |
+| 🗃️ | **Databases & Monitoring** | Redis, Prometheus, Grafana, SQL (Basic) |
 
 <br/>
 
-<h3> 🤝🏻  Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.kuralabs.org/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/triston-ortiz-0a919b173/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-triston%20ortiz-orange?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:taokuralabs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-taokuralabs@gmail.com-orange?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/triston-ortiz-0a919b173/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Triston%20Ortiz-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:YourProfessionalEmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20In%20Touch-blue?style=flat-square&logo=gmail"></a>
 </p>
