@@ -25,5 +25,5 @@ When I'm not working with technology, you can find me hiking with my dog, explor
 
 <p align="center">
   <a href="https://www.linkedin.com/in/triston-ortiz-0a919b173/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Triston%20Ortiz-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:triston.a.ortiz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20In%20Touch-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:triston.a.ortiz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Triston%20Ortiz-blue?style=flat-square&logo=gmail"></a>
 </p>
